@@ -1,0 +1,43 @@
+body{
+    background-color: violet;
+}
+
+.container{
+    text-align: center;
+    background-color: white;
+    max-width: 350px;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+.sad{
+    color: black;
+}
+
+p{
+    color: grey;
+}
+
+.gun{
+    border: 1px solid lightgrey;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.van{
+    border: 1px solid lightgrey;
+    padding: 10px;
+    margin: 10px;
+}
+
+.farm{
+    border: 1px solid lightgrey;
+    padding: 10px;
+    margin: 10px;
+}
+
+.and{
+    margin-top: 10px;
+}
